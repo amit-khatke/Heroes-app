@@ -1,0 +1,13 @@
+div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 200px;
+
+}
+img{
+  height: 190px;
+  width: 200px;
+}
