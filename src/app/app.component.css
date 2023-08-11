@@ -1,19 +1,11 @@
 div{
   display: flex;
-  flex-direction:column;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 200px;
   width: 200px;
-
-}
-.heroes{
-  height: 100px;
-  width: 100px;
-}
-.heros-detail{
-  height: 100px;
-  width: 100px;
+  
 }
 img{
   height: 190px;
